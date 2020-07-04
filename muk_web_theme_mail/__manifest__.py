@@ -35,9 +35,9 @@
         "mail",
         "muk_web_theme",
     ],
-    "excludes": [
-        "web_enterprise",
-    ],
+    # "excludes": [
+    #     "web_enterprise",
+    # ],
     "data": [
         "template/assets.xml",
     ],

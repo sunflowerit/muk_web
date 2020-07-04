@@ -34,9 +34,9 @@
     "depends": [
         "muk_web_utils",
     ],
-    "excludes": [
-        "web_enterprise",
-    ],
+    # "excludes": [
+    #     "web_enterprise",
+    # ],
     "data": [
         "template/assets.xml",
         "template/web.xml",
